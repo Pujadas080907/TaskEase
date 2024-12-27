@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593105196669",
+    "project_id": "taskease-40c2a",
+    "storage_bucket": "taskease-40c2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593105196669:android:fc0fe2ee87f34f69fe4314",
+        "android_client_info": {
+          "package_name": "com.example.taskease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRFz0uCv0IqG1KWE_tiWBdPpLrkOvxME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
